@@ -74,7 +74,7 @@ graph LR
 
 <p align="left">
   <a href="https://dev.nathanymous.site"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-  <a href="mailto:nathan@nathanymous.site"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nathanymous@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/NathanymousFu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
